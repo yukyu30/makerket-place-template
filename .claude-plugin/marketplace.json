@@ -1,0 +1,24 @@
+{
+  "name": "yukyu-cc-marketplace",
+  "owner": {
+    "name": "yukyu30",
+    "url": "https://github.com/yukyu30"
+  },
+  "metadata": {
+    "description": "yukyu30's Claude Code plugin marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "Example plugin demonstrating commands, agents, and skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "yukyu30"
+      },
+      "keywords": ["example", "demo"],
+      "category": "productivity"
+    }
+  ]
+}

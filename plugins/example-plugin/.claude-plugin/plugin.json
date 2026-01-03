@@ -1,0 +1,14 @@
+{
+  "name": "example-plugin",
+  "version": "1.0.0",
+  "description": "Example plugin demonstrating commands, agents, and skills",
+  "author": {
+    "name": "yukyu30",
+    "url": "https://github.com/yukyu30"
+  },
+  "license": "MIT",
+  "keywords": ["example", "demo", "template"],
+  "commands": "./commands/",
+  "agents": "./agents/",
+  "skills": "./skills/"
+}
